@@ -1,35 +1,42 @@
-# mtech-sem2-labs
+# M.Tech AI & DS — Semester 2 Labs
 
-> M.Tech AI & DS Semester 2 lab experiments and assignments
+> Complete lab work, experiments, and assignments for M.Tech AI & Data Science, Semester 2.
 
-## Problem Statement
+## 📚 Subjects
 
+| # | Subject | Folder |
+|---|---|---|
+| 1 | Advances in Operating Systems | `Advances-in-Operating-Systems/` |
+| 2 | Big Data Analytics | `Big-Data-Analytics/` |
+| 3 | Internet of Things and Applications | `Internet-of-Things-and-Applications/` |
+| 4 | Decision Support System | `Decision-Support-System/` |
+| 5 | Cloud Computing | `Cloud-Computing/` |
+| 6 | Mini Project with Seminar | `Mini-Project-with-Seminar/` |
+| 7 | Big Data Analytics Laboratory | `Big-Data-Analytics-Laboratory/` |
+| 8 | Skill Enhancement of Research Excellence - 1 | `SERE-1/` |
 
-## Objective
+## 📁 Structure
 
+Each subject folder contains:
+```
+subject-name/
+├── notes/          # Lecture notes and summaries
+├── assignments/    # Assignment solutions
+└── lab/            # Lab experiment code
+```
 
-## Tech Stack
-
-| Technology | Purpose |
-|---|---|
-| Python 3.11 | Core language |
-
-## Getting Started
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/jyothigganachari-ai/mtech-sem2-labs.git
 cd mtech-sem2-labs
-pip install -r requirements.txt
 ```
 
-## Results
+## 👩‍💻 Author
 
-
-## Author
-
-**Jyothi G G**
-- GitHub: [@jyothigganachari-ai](https://github.com/jyothigganachari-ai)
-- M.Tech AI & Data Science
+**Jyothi G G**  
+M.Tech AI & Data Science | Semester 2  
+GitHub: [@jyothigganachari-ai](https://github.com/jyothigganachari-ai)
 
 ---
-*Made with love as part of my AI learning journey*
+*Organized learning, documented progress.*
